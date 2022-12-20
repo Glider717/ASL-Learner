@@ -267,6 +267,12 @@ One of the front-end challenges was figuring out which react hooks to use. Anoth
 
 
 ## Future Work
+Most of the future work would involve mostly the Frontend / Backend side of the application.
+
+### ML Side
+Future ideas for our application involving the ML side of the our project would be to expand the sign gester list to involve digit numbers 0-9. This would invlove expanding the model to classify the additional 10 different numbers.
+### Frontend / Backend
+A minor improvement on the current game levels is to include a timed section in which users would need to sign gesture a word within a time limit to test user's spelling speeds. To develop this into a consumer-grade product, we would add Google AdSense to start monetizing the website. We would have a system in place where users would subscribe to get rid of ads. Other features would include the addition of a mobile app and having users share their progress with others through social media.
 
 ## The Team
 This project is the combined effort of ...
